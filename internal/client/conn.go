@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pion/logging"
-	"github.com/pion/stun"
-	"github.com/pion/turn/v2/internal/proto"
+	"github.com/carrotsong/logging"
+	"github.com/carrotsong/stun"
+	"github.com/carrotsong/turn/v2/internal/proto"
 )
 
 const (

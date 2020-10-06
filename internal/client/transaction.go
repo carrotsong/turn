@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pion/stun"
+	"github.com/carrotsong/stun"
 )
 
 const (

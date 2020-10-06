@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/pion/stun"
-	"github.com/pion/turn/v2/internal/proto"
+	"github.com/carrotsong/stun"
+	"github.com/carrotsong/turn/v2/internal/proto"
 )
 
 const (

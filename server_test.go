@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pion/logging"
-	"github.com/pion/transport/test"
-	"github.com/pion/transport/vnet"
-	"github.com/pion/turn/v2/internal/proto"
+	"github.com/carrotsong/logging"
+	"github.com/carrotsong/transport/test"
+	"github.com/carrotsong/transport/vnet"
+	"github.com/carrotsong/turn/v2/internal/proto"
 	"github.com/stretchr/testify/assert"
 )
 

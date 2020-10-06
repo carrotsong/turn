@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pion/logging"
+	"github.com/carrotsong/logging"
 )
 
 // RelayAddressGenerator is used to generate a RelayAddress when creating an allocation.

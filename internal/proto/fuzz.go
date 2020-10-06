@@ -5,7 +5,7 @@ package proto
 import (
 	"fmt"
 
-	"github.com/pion/stun"
+	"github.com/carrotsong/stun"
 )
 
 type attr interface {

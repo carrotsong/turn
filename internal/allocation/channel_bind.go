@@ -4,8 +4,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/pion/logging"
-	"github.com/pion/turn/v2/internal/proto"
+	"github.com/carrotsong/logging"
+	"github.com/carrotsong/turn/v2/internal/proto"
 )
 
 // ChannelBind represents a TURN Channel

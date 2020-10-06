@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"time"
 
-	"github.com/pion/stun"
+	"github.com/carrotsong/stun"
 )
 
 // DefaultLifetime in RFC 5766 is 10 minutes.

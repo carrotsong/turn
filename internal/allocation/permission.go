@@ -4,7 +4,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/pion/logging"
+	"github.com/carrotsong/logging"
 )
 
 const permissionTimeout = time.Duration(5) * time.Minute

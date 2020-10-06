@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/pion/turn/v2"
+	"github.com/carrotsong/turn/v2"
 )
 
 // Outputs username & password according to the

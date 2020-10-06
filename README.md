@@ -8,12 +8,12 @@
 <p align="center">
   <a href="https://pion.ly"><img src="https://img.shields.io/badge/pion-turn-gray.svg?longCache=true&colorB=brightgreen" alt="Pion TURN"></a>
   <a href="http://gophers.slack.com/messages/pion"><img src="https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=brightgreen" alt="Slack Widget"></a>
-  <a href="https://github.com/pion/awesome-pion" alt="Awesome Pion"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+  <a href="https://github.com/carrotsong/awesome-pion" alt="Awesome Pion"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
   <br>
   <a href="https://travis-ci.org/pion/turn"><img src="https://travis-ci.org/pion/turn.svg?branch=master" alt="Build Status"></a>
-  <a href="https://pkg.go.dev/github.com/pion/turn/v2"><img src="https://godoc.org/github.com/pion/turn?status.svg" alt="GoDoc"></a>
+  <a href="https://pkg.go.dev/github.com/carrotsong/turn/v2"><img src="https://godoc.org/github.com/carrotsong/turn?status.svg" alt="GoDoc"></a>
   <a href="https://codecov.io/gh/pion/turn"><img src="https://codecov.io/gh/pion/turn/branch/master/graph/badge.svg" alt="Coverage Status"></a>
-  <a href="https://goreportcard.com/report/github.com/pion/turn"><img src="https://goreportcard.com/badge/github.com/pion/turn" alt="Go Report Card"></a>
+  <a href="https://goreportcard.com/report/github.com/carrotsong/turn"><img src="https://goreportcard.com/badge/github.com/carrotsong/turn" alt="Go Report Card"></a>
   <a href="https://www.codacy.com/app/pion/turn"><img src="https://api.codacy.com/project/badge/Grade/d53ec6c70576476cb16c140c2964afde" alt="Codacy Badge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
@@ -36,7 +36,7 @@ if you wish to get started quickly.
 
 The advantage of this is that you don't need to deal with complicated config files, or custom APIs to modify the state of Pion TURN.
 After you instantiate an instance of a Pion TURN server or client you interact with it like any library. The quickest way to get started is to look at the
-[examples](examples) or [GoDoc](https://godoc.org/github.com/pion/turn)
+[examples](examples) or [GoDoc](https://godoc.org/github.com/carrotsong/turn)
 
 # Examples
 We try to cover most common use cases in [examples](examples). If more examples could be helpful please file an issue, we are always looking
@@ -45,9 +45,9 @@ to expand and improve `pion/turn` to make it easier for developers.
 To build any example you just need to run `go build` in the directory of the example you care about.
 It is also very easy to [cross compile](https://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5) Go programs.
 
-You can also see `pion/turn` usage in [pion/ice](https://github.com/pion/ice)
+You can also see `pion/turn` usage in [pion/ice](https://github.com/carrotsong/ice)
 
-# [FAQ](https://github.com/pion/webrtc/wiki/FAQ)
+# [FAQ](https://github.com/carrotsong/webrtc/wiki/FAQ)
 
 ### RFCs
 #### Implemented

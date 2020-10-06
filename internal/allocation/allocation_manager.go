@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pion/logging"
+	"github.com/carrotsong/logging"
 )
 
 // ManagerConfig a bag of config params for Manager.

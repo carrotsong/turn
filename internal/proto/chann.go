@@ -5,7 +5,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/pion/stun"
+	"github.com/carrotsong/stun"
 )
 
 // ChannelNumber represents CHANNEL-NUMBER attribute.

@@ -4,7 +4,7 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/pion/transport/vnet"
+	"github.com/carrotsong/transport/vnet"
 )
 
 // RelayAddressGeneratorStatic can be used to return static IP address each time a relay is created.

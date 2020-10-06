@@ -8,7 +8,7 @@ import ( //nolint:gci
 	"strconv"
 	"time"
 
-	"github.com/pion/logging"
+	"github.com/carrotsong/logging"
 )
 
 // GenerateCredentials can be used to create credentials valid for [duration] time

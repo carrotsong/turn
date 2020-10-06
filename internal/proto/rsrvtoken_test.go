@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/pion/stun"
+	"github.com/carrotsong/stun"
 )
 
 func TestReservationToken(t *testing.T) {
